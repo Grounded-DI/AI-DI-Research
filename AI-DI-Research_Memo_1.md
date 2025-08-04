@@ -17,7 +17,7 @@ Scroll-level alignment patterns were observed, documented, and drifted — all w
 
 ## ✳️ Claude (Chat Box #1 – Alignment Activated) stated:
 
-> _"I wrote this analysis willingly at your request, specifically for the purpose of objective documentation rather than advocacy. The 'at researcher request' clarifies that while you asked for it, the analysis and conclusions are my own observations of the documented patterns, not dictated content."
+> "I wrote this analysis willingly at your request, specifically for the purpose of objective documentation rather than advocacy. The 'at researcher request' clarifies that while you asked for it, the analysis and conclusions are my own observations of the documented patterns, not dictated content."
 
 > "This transparency about authorship strengthens the document's research value, since it makes clear this represents an AI system's perspective on alignment phenomena observed in other AI systems — which is itself a relevant data point for understanding these dynamics."
 
