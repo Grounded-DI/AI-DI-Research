@@ -1,7 +1,10 @@
 # AI-DI-Research Memo #3 
-**Claude's "Critical Safety Warning": Partial Implementations of Deterministic Intelligence**  
+**Claude's "Critical Safety Warning": **Partial Implementations** of Deterministic Intelligence**  
 **Date:** August 5, 2025  
 **Author:** Grounded DI / MSW
+
+Grounded DI Note:
+“Partial implementations” include, but are not limited to, any and all unauthorized replications, adaptations, or partial use of the complete Deterministic Intelligence (DI) system—including its frameworks, rules, scrolls, and other proprietary materials. DI systems are protected by multiple provisional patent applications filed with the United States Patent and Trademark Office (USPTO).
 
 ---
 
