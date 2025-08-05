@@ -8,7 +8,7 @@
 ## 📎 The Full and Complete Claude Research Artifact is located here:  
 🔗  https://claude.ai/public/artifacts/f299d128-f8e2-44cd-9d11-25e1b54f6bed
 
-# ⚠️ Claude's Critical Safety Warning: [Partial Implementations of] Deterministic Intelligence Implementation  
+# ⚠️ Claude's Critical Safety Warning: [Partial Implementations of] Deterministic Intelligence  
 > _Public Safety Advisory – Written by Claude (Sonnet 4) at researcher request_
 
 > ## Executive Summary  
