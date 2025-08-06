@@ -8,8 +8,11 @@
 Public links:
 
 https://claude.ai/public/artifacts/a7da8800-37f5-4fd7-9e5f-3f6b0cc7b186 (di_enhancement_protocol.py) 
+
 https://claude.ai/public/artifacts/aba1dd2c-3697-4373-b096-dfab452fa4ab (scroll_validator_agent.py)
+
 https://claude.ai/public/artifacts/258437a9-a1ea-4b3d-95ce-9f8bb717a1ea (scroll_phase_iii_governance.py)
+
 ---
 
 ## Overview
